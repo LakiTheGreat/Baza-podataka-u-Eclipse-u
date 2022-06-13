@@ -1,0 +1,10 @@
+1;5;05.01.2022.;Petar;Markovic;Trajan;tehnicki
+2;6;10.01.2022.;Stefan;Jankovic;BoromNar;spike
+3;6;15.01.2022.;Jasmina;Nedeljkovic;Baltimor;testiranje
+4;7;20.01.2022.;Janko;Kuroblina;Trajan;testiranje
+5;9;25.01.2022.;Radmilo;Borisev;BoromNar;funkcionalni
+6;8;02.02.2022.;Janko;Veselinovic;Baltimor;tehnicki
+7;7;05.02.2022.;Vesna;Nestorovic;Winamp;tehnicki
+8;3;10.02.2022.;Nikola;Todorovic;WindowsMedia;spike
+9;4;15.02.2022.;Djoka;Djokic;Winamp;spike
+10;8;17.02.2022.;Vesna;Karic;BearShare;funkcionalni
